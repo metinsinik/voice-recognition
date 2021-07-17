@@ -1,5 +1,5 @@
 .talk {
-  background-color: #a9a9a9;
+  background-color: #3a3838;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -9,7 +9,7 @@
   font-size: 16px;
   position: absolute;
   left: 440px;
-  top: 500px;
+  top: 350px;
 }
 .content {
   position: absolute;
